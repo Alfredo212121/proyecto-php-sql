@@ -1,0 +1,201 @@
+player_id,player_name,team,position,height,points_per_game,assists_per_game
+1,Rees Richardet,Celtics,Small Forward,74.8,20.0,9.3
+2,Estevan Woodsford,Warriors,Small Forward,68.8,21.8,17.3
+3,Abbie Geibel,Warriors,Power Forward,73.6,0.8,12.9
+4,Lu Dailey,Celtics,Shooting Guard,84.4,28.4,0.4
+5,Reinhold Luna,Warriors,Shooting Guard,66.9,15.9,16.4
+6,Nolana Bonnor,Celtics,Point Guard,65.7,35.4,3.7
+7,Mercie Oliffe,Rockets,Point Guard,66.6,20.9,11.0
+8,Giraud MacAdam,Lakers,Power Forward,78.4,35.0,9.1
+9,Eleonore Nuccii,Lakers,Small Forward,73.4,29.8,7.3
+10,Celisse Gravestone,Celtics,Shooting Guard,80.0,13.8,17.5
+11,Nealon Yurtsev,Celtics,Small Forward,77.6,11.2,14.3
+12,Briny Dumbare,Bulls,Power Forward,89.3,39.8,12.9
+13,Jason Moohan,Celtics,Shooting Guard,83.5,22.0,0.5
+14,Kizzee Coggon,Bulls,Power Forward,71.8,20.0,14.1
+15,Genia McEttigen,Lakers,Center,74.2,6.1,13.8
+16,Gertrude Bere,Rockets,Shooting Guard,84.9,13.9,13.9
+17,Tore Creeghan,Rockets,Power Forward,72.5,19.6,3.9
+18,Benedicto Symper,Celtics,Shooting Guard,76.9,21.1,13.1
+19,Carr Albrook,Rockets,Power Forward,80.4,7.5,0.8
+20,Kate Brignell,Celtics,Point Guard,86.6,34.8,16.4
+21,Kelsy Blake,Celtics,Point Guard,64.0,26.9,8.1
+22,Thorny Spohr,Rockets,Center,85.4,23.7,18.6
+23,Lee Beardow,Celtics,Center,70.0,24.7,1.1
+24,Aleda Inkin,Warriors,Power Forward,76.8,26.6,12.1
+25,Arabelle Hartup,Bulls,Power Forward,70.1,2.2,5.0
+26,Mauricio Gillyett,Celtics,Small Forward,75.5,9.0,17.0
+27,Nissie Burgoine,Bulls,Power Forward,60.5,39.3,0.9
+28,Dylan Comford,Lakers,Point Guard,78.1,37.1,4.6
+29,Queenie Cescot,Rockets,Shooting Guard,80.0,17.1,5.9
+30,Tanner Budd,Warriors,Shooting Guard,69.1,12.9,13.7
+31,Leela Lindro,Rockets,Small Forward,76.3,11.0,7.3
+32,Rudd Bilby,Rockets,Point Guard,61.7,6.0,0.3
+33,Anne-marie Deaville,Bulls,Power Forward,67.6,29.4,18.8
+34,Trixy Kennally,Celtics,Small Forward,72.6,39.8,19.9
+35,Kirsti Crebo,Warriors,Point Guard,73.5,2.4,10.7
+36,Sven Baron,Warriors,Small Forward,72.8,13.4,17.8
+37,Willie Retchless,Rockets,Center,88.4,39.1,0.6
+38,Kaja Marte,Rockets,Power Forward,85.2,34.6,16.4
+39,Georgia Lukasen,Rockets,Shooting Guard,65.6,20.5,8.1
+40,Stefano Sagar,Bulls,Center,70.4,21.3,10.2
+41,Lucila Michelmore,Rockets,Power Forward,80.3,19.4,16.8
+42,Modestia Peirone,Rockets,Center,69.4,12.9,18.5
+43,Nealy McTrustie,Celtics,Shooting Guard,65.2,39.2,15.5
+44,Tabbi Howles,Bulls,Power Forward,78.5,30.4,2.7
+45,Wynny Eccleston,Rockets,Shooting Guard,76.3,31.8,6.1
+46,Carola Marthen,Celtics,Small Forward,74.3,35.5,3.2
+47,Trefor Klimke,Bulls,Power Forward,89.4,26.2,17.5
+48,Rice Taylor,Warriors,Point Guard,77.7,3.6,9.3
+49,Rutter Cammidge,Lakers,Power Forward,76.6,7.5,13.7
+50,Adelaida Laterza,Rockets,Power Forward,71.3,12.9,17.9
+51,Joanie Fomichkin,Lakers,Small Forward,75.9,39.6,17.6
+52,Gerrard Valler,Bulls,Small Forward,87.7,30.1,8.7
+53,Michaeline Burgin,Rockets,Point Guard,65.7,17.0,17.8
+54,Hanson Beckinsale,Celtics,Shooting Guard,84.3,18.2,8.8
+55,Ninnetta Shama,Warriors,Point Guard,71.3,1.8,11.6
+56,Kala Gudde,Warriors,Small Forward,85.7,10.2,4.3
+57,Frederic Fayter,Warriors,Shooting Guard,87.9,31.9,15.7
+58,Kiah Whifen,Celtics,Power Forward,66.3,33.3,6.6
+59,Alard Zanotti,Rockets,Point Guard,67.8,8.9,5.3
+60,Hillie Godson,Bulls,Point Guard,77.4,31.8,13.3
+61,Dominique Shiels,Rockets,Center,84.1,4.4,15.6
+62,Bonnie Castiello,Lakers,Shooting Guard,88.2,26.1,16.1
+63,Latashia Francescone,Bulls,Power Forward,62.4,20.9,1.3
+64,Jordanna Winsper,Celtics,Center,85.1,35.7,6.8
+65,Chrotoem Hardy-Piggin,Celtics,Shooting Guard,68.1,16.1,9.8
+66,Ashlan Surcombe,Rockets,Center,73.5,13.4,16.2
+67,Silva Goodding,Bulls,Small Forward,69.1,0.6,3.1
+68,Moreen Hixley,Lakers,Center,88.6,2.7,8.1
+69,Ashla Nickoll,Lakers,Center,88.4,28.7,15.1
+70,Blisse Boodell,Warriors,Point Guard,77.0,0.5,0.9
+71,Gaultiero Patrone,Bulls,Small Forward,60.7,33.4,5.3
+72,Jereme Timeby,Warriors,Power Forward,82.4,37.3,0.4
+73,Ermengarde Vinson,Lakers,Center,64.1,3.8,16.0
+74,Martha Magowan,Warriors,Shooting Guard,86.8,4.3,2.1
+75,Madalyn McEllen,Celtics,Power Forward,78.1,19.2,2.5
+76,Lancelot Millwall,Warriors,Shooting Guard,82.8,12.6,14.0
+77,Jackquelin Cicconetti,Lakers,Center,84.1,32.1,13.3
+78,Alexandr Binnion,Rockets,Center,61.5,24.0,6.3
+79,Elyn Kings,Rockets,Small Forward,76.0,11.5,1.3
+80,Egor Bollam,Celtics,Center,73.0,13.8,12.6
+81,Ermengarde Luter,Rockets,Point Guard,74.6,32.6,4.3
+82,Julienne Farraway,Lakers,Point Guard,74.5,4.5,14.2
+83,Lance Trenoweth,Warriors,Small Forward,67.0,26.9,7.6
+84,Patrick Skerman,Warriors,Center,80.0,19.3,10.5
+85,Cherida Filer,Bulls,Small Forward,65.8,22.2,7.9
+86,Clare Sneesbie,Warriors,Center,67.2,10.4,9.6
+87,Grannie Kinde,Rockets,Power Forward,89.1,24.3,7.1
+88,Roddie Toller,Bulls,Shooting Guard,78.0,29.3,1.3
+89,Al Life,Lakers,Power Forward,88.1,27.0,19.5
+90,Dorotea Effaunt,Bulls,Center,69.5,31.0,1.7
+91,Augy Lotterington,Celtics,Shooting Guard,73.9,35.8,1.9
+92,Rog Bartozzi,Bulls,Power Forward,75.1,36.7,5.2
+93,Issie Greenhalf,Lakers,Small Forward,61.6,39.3,14.7
+94,Ardelle Bagnall,Bulls,Point Guard,78.5,10.0,5.9
+95,Gratia Robardley,Bulls,Small Forward,77.2,13.1,4.3
+96,Joscelin Otham,Celtics,Shooting Guard,72.9,29.3,4.2
+97,Mariya Bree,Warriors,Small Forward,82.5,31.9,12.4
+98,Walther Androletti,Lakers,Point Guard,82.7,38.4,0.6
+99,Shannon Ecclesall,Celtics,Small Forward,83.3,18.1,2.1
+100,Luther Balling,Rockets,Small Forward,71.1,6.9,1.3
+101,Lorin Jorge,Rockets,Power Forward,61.6,4.3,2.9
+102,Irma Gellibrand,Warriors,Center,69.3,35.7,5.4
+103,Saxe Jamot,Warriors,Power Forward,86.5,39.6,11.5
+104,Emanuel Tatershall,Bulls,Shooting Guard,68.1,17.3,12.3
+105,Tull Oslar,Warriors,Shooting Guard,76.3,7.5,10.3
+106,Horace De Lasci,Warriors,Point Guard,74.7,19.6,3.4
+107,Daisey Hankard,Celtics,Power Forward,80.9,10.9,4.8
+108,Bunni Absolem,Lakers,Power Forward,84.6,30.6,8.6
+109,Bobbie Mainston,Celtics,Small Forward,84.6,16.3,19.2
+110,Barrie Vila,Celtics,Point Guard,73.9,39.7,0.1
+111,Gayler Quiddihy,Bulls,Small Forward,84.0,12.1,5.7
+112,Giorgi Aubray,Celtics,Small Forward,60.7,12.8,19.8
+113,Tami Gurner,Bulls,Shooting Guard,67.8,12.0,3.3
+114,Madelyn Redpath,Rockets,Center,61.9,0.5,4.1
+115,Georgette Ausiello,Celtics,Small Forward,60.7,17.4,7.4
+116,Pattie Truggian,Lakers,Power Forward,62.2,36.1,14.9
+117,Kalil de Villier,Rockets,Point Guard,79.5,29.7,14.9
+118,Kristi Dumsday,Warriors,Point Guard,64.6,5.3,13.4
+119,Bess Mapston,Warriors,Center,62.5,1.0,1.2
+120,Pacorro Belton,Lakers,Point Guard,88.3,0.1,10.2
+121,Nil Frusher,Warriors,Center,63.6,13.1,4.3
+122,Ivor Seebert,Warriors,Small Forward,85.9,36.4,2.1
+123,Aldwin Abrahams,Rockets,Shooting Guard,66.0,21.1,7.9
+124,Beatrice Lapenna,Bulls,Point Guard,72.8,15.2,12.2
+125,Tades Dreger,Rockets,Shooting Guard,74.4,34.4,12.6
+126,Gannie Slatten,Rockets,Point Guard,60.6,30.1,9.0
+127,Ingrid Linwood,Warriors,Power Forward,73.1,13.9,5.0
+128,Bernarr Speaks,Lakers,Small Forward,86.1,30.3,4.8
+129,Candice Degg,Warriors,Small Forward,85.9,9.1,13.0
+130,Aubree Norcop,Warriors,Power Forward,69.4,39.5,12.9
+131,Martie Bolwell,Rockets,Shooting Guard,65.6,5.5,17.1
+132,Catlaina Gladtbach,Bulls,Power Forward,63.7,1.5,5.8
+133,Binny FitzGilbert,Lakers,Power Forward,71.0,23.5,3.6
+134,Rebecca Grigg,Bulls,Small Forward,81.6,34.8,15.8
+135,Jeniece Moodie,Bulls,Point Guard,64.1,7.4,6.1
+136,Tybie Southouse,Bulls,Center,76.6,26.9,15.8
+137,Marni Brocklebank,Rockets,Shooting Guard,82.2,30.7,9.3
+138,Allen Bauchop,Warriors,Power Forward,71.2,26.7,10.8
+139,Heloise Kenwell,Lakers,Point Guard,70.0,19.2,11.4
+140,Grant Manhood,Warriors,Shooting Guard,89.0,30.6,19.6
+141,Mano Pack,Lakers,Small Forward,85.7,25.6,6.3
+142,Hyacintha Hymer,Celtics,Shooting Guard,61.7,11.7,12.6
+143,Fanni Langsdon,Rockets,Small Forward,80.0,5.0,17.1
+144,Nels Mouan,Celtics,Power Forward,78.0,15.1,14.3
+145,Julian Shuker,Celtics,Point Guard,83.5,17.2,3.3
+146,Rollo Folonin,Rockets,Center,87.3,2.2,11.5
+147,Sibylle Cheeseman,Celtics,Shooting Guard,87.1,2.9,8.5
+148,Elvera Manuaud,Lakers,Power Forward,60.1,8.1,14.0
+149,Madalena Zuenelli,Lakers,Point Guard,87.1,6.2,4.1
+150,Cosme Conaghy,Bulls,Center,67.1,30.1,1.6
+151,May Stonman,Warriors,Small Forward,64.9,37.0,10.7
+152,Cayla Helis,Warriors,Center,66.5,3.6,17.3
+153,Bendix Uden,Warriors,Shooting Guard,83.7,11.4,0.5
+154,Sabra Tills,Warriors,Point Guard,80.8,30.3,10.9
+155,Bride McGonagle,Warriors,Small Forward,60.7,17.6,8.9
+156,Winifield O'Neal,Warriors,Center,71.7,8.3,16.1
+157,Brynn Dimitrescu,Celtics,Center,81.9,23.0,13.5
+158,Fannie Simmers,Bulls,Shooting Guard,86.6,24.0,10.0
+159,Reynard Toppas,Bulls,Power Forward,82.0,34.7,6.7
+160,Latisha Yurikov,Bulls,Center,66.8,11.6,6.7
+161,Clarine Fowley,Rockets,Small Forward,86.9,4.0,1.7
+162,Marcello Crennell,Bulls,Point Guard,70.8,10.0,10.7
+163,Charla Ochterlonie,Bulls,Shooting Guard,70.7,21.1,10.3
+164,Frazier Faulconbridge,Rockets,Small Forward,67.1,3.0,1.4
+165,Abner Rogeron,Bulls,Shooting Guard,84.3,23.2,8.1
+166,Silvie Hollingshead,Rockets,Center,85.8,31.6,19.5
+167,Paten Sievewright,Lakers,Point Guard,69.3,0.8,8.9
+168,Anestassia Tasseler,Celtics,Small Forward,87.0,37.2,14.2
+169,Glenna McCaighey,Lakers,Center,66.9,29.1,1.2
+170,Karee Sarson,Rockets,Small Forward,86.7,23.7,6.1
+171,Nathanial Raigatt,Rockets,Center,63.7,21.9,18.2
+172,Sharona Mattheus,Celtics,Power Forward,71.5,6.0,14.1
+173,Tanitansy Buntain,Celtics,Center,77.8,3.9,1.3
+174,Aleece Minget,Lakers,Center,69.7,37.0,8.4
+175,Tilda Tofful,Celtics,Power Forward,81.8,24.2,19.2
+176,Bibi MacGinney,Lakers,Point Guard,86.7,26.3,4.4
+177,Federica Castletine,Bulls,Power Forward,75.3,9.4,9.1
+178,Roxana Skeels,Rockets,Shooting Guard,63.5,29.8,9.7
+179,Silvan Acreman,Lakers,Small Forward,78.5,15.9,17.6
+180,Betsey Hasley,Rockets,Power Forward,65.8,39.2,18.7
+181,Scarlet Andrini,Warriors,Small Forward,84.9,31.3,18.9
+182,Candi Undy,Bulls,Small Forward,74.2,20.4,13.6
+183,North Keegan,Lakers,Point Guard,63.7,11.1,14.2
+184,Gusti Joiner,Rockets,Small Forward,64.5,5.9,1.3
+185,Trace Threlfall,Celtics,Shooting Guard,74.5,36.2,5.4
+186,Cathlene Dotson,Lakers,Point Guard,81.5,5.1,13.5
+187,Farah Kinzett,Lakers,Shooting Guard,79.9,10.9,3.1
+188,Elvis Ettels,Rockets,Point Guard,84.1,35.0,16.7
+189,Christen McConigal,Bulls,Center,61.7,24.3,17.4
+190,Nollie Robe,Warriors,Center,85.7,32.0,3.0
+191,Benn Kersaw,Warriors,Shooting Guard,70.3,13.4,17.8
+192,Dev Sworne,Lakers,Point Guard,79.5,31.2,17.1
+193,Elisha Andreuzzi,Warriors,Shooting Guard,75.0,19.8,5.5
+194,Babb Kolis,Celtics,Small Forward,75.9,32.6,14.0
+195,Bathsheba Trimnell,Celtics,Small Forward,79.2,7.3,14.4
+196,Sayre Waller-Bridge,Warriors,Power Forward,81.9,35.4,4.2
+197,Aretha Grigorkin,Celtics,Point Guard,60.0,33.0,17.1
+198,Nertie Puckham,Lakers,Power Forward,66.3,29.4,7.8
+199,Tiff Blanko,Celtics,Small Forward,68.1,15.3,5.2
+200,Friederike Collyear,Lakers,Point Guard,84.7,11.7,13.4
